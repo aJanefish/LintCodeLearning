@@ -1,0 +1,31 @@
+id:51 set(58,30)
+size=28
+0 - Note{key=58, value=30, times=0, pre=null, next=60}
+1 - Note{key=60, value=160, times=1, pre=58, next=77}
+2 - Note{key=77, value=165, times=0, pre=60, next=104}
+3 - Note{key=104, value=38, times=1, pre=77, next=55}
+4 - Note{key=55, value=90, times=0, pre=104, next=134}
+5 - Note{key=134, value=12, times=0, pre=55, next=23}
+6 - Note{key=23, value=49, times=0, pre=134, next=102}
+7 - Note{key=102, value=314, times=0, pre=23, next=29}
+8 - Note{key=29, value=304, times=1, pre=102, next=124}
+9 - Note{key=124, value=27, times=0, pre=29, next=130}
+10 - Note{key=130, value=127, times=0, pre=124, next=10}
+11 - Note{key=10, value=241, times=1, pre=130, next=48}
+12 - Note{key=48, value=119, times=2, pre=10, next=52}
+13 - Note{key=52, value=176, times=1, pre=48, next=128}
+14 - Note{key=128, value=148, times=0, pre=52, next=133}
+15 - Note{key=133, value=193, times=0, pre=128, next=3}
+16 - Note{key=3, value=193, times=3, pre=133, next=8}
+17 - Note{key=8, value=300, times=0, pre=3, next=80}
+18 - Note{key=80, value=191, times=0, pre=8, next=65}
+19 - Note{key=65, value=85, times=0, pre=80, next=129}
+20 - Note{key=129, value=263, times=0, pre=65, next=121}
+21 - Note{key=121, value=308, times=0, pre=129, next=33}
+22 - Note{key=33, value=58, times=1, pre=121, next=81}
+23 - Note{key=81, value=261, times=0, pre=33, next=12}
+24 - Note{key=12, value=66, times=0, pre=81, next=100}
+25 - Note{key=100, value=136, times=0, pre=12, next=85}
+26 - Note{key=85, value=193, times=0, pre=100, next=96}
+27 - Note{key=96, value=56, times=0, pre=85, next=null}
+

@@ -1,0 +1,13 @@
+id:17 6 get(105) - -1 - -1
+size=10
+0 - Note{key=129, value=263, times=0, pre=null, next=121}
+1 - Note{key=121, value=308, times=0, pre=129, next=3}
+2 - Note{key=3, value=280, times=1, pre=121, next=33}
+3 - Note{key=33, value=58, times=1, pre=3, next=81}
+4 - Note{key=81, value=261, times=0, pre=33, next=12}
+5 - Note{key=12, value=66, times=0, pre=81, next=100}
+6 - Note{key=100, value=136, times=0, pre=12, next=10}
+7 - Note{key=10, value=10, times=0, pre=100, next=85}
+8 - Note{key=85, value=193, times=0, pre=10, next=96}
+9 - Note{key=96, value=56, times=0, pre=85, next=null}
+

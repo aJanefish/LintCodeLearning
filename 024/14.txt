@@ -1,0 +1,11 @@
+id:14 5 get(3) - 280 - 280
+size=8
+0 - Note{key=3, value=280, times=1, pre=null, next=33}
+1 - Note{key=33, value=58, times=1, pre=3, next=81}
+2 - Note{key=81, value=261, times=0, pre=33, next=12}
+3 - Note{key=12, value=66, times=0, pre=81, next=100}
+4 - Note{key=100, value=136, times=0, pre=12, next=10}
+5 - Note{key=10, value=10, times=0, pre=100, next=85}
+6 - Note{key=85, value=193, times=0, pre=10, next=96}
+7 - Note{key=96, value=56, times=0, pre=85, next=null}
+

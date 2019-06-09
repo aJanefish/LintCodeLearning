@@ -1,0 +1,10 @@
+id:11 set(12,66)
+size=7
+0 - Note{key=12, value=66, times=0, pre=null, next=100}
+1 - Note{key=100, value=136, times=0, pre=12, next=10}
+2 - Note{key=10, value=10, times=0, pre=100, next=85}
+3 - Note{key=85, value=193, times=0, pre=10, next=3}
+4 - Note{key=3, value=280, times=0, pre=85, next=96}
+5 - Note{key=96, value=56, times=0, pre=3, next=33}
+6 - Note{key=33, value=219, times=0, pre=96, next=null}
+

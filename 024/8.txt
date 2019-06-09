@@ -1,0 +1,7 @@
+id:8 set(85,193)
+size=4
+0 - Note{key=85, value=193, times=0, pre=null, next=3}
+1 - Note{key=3, value=280, times=0, pre=85, next=96}
+2 - Note{key=96, value=56, times=0, pre=3, next=33}
+3 - Note{key=33, value=219, times=0, pre=96, next=null}
+

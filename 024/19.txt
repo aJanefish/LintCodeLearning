@@ -1,0 +1,15 @@
+id:19 set(65,85)
+size=12
+0 - Note{key=65, value=85, times=0, pre=null, next=104}
+1 - Note{key=104, value=38, times=0, pre=65, next=129}
+2 - Note{key=129, value=263, times=0, pre=104, next=121}
+3 - Note{key=121, value=308, times=0, pre=129, next=3}
+4 - Note{key=3, value=280, times=1, pre=121, next=33}
+5 - Note{key=33, value=58, times=1, pre=3, next=81}
+6 - Note{key=81, value=261, times=0, pre=33, next=12}
+7 - Note{key=12, value=66, times=0, pre=81, next=100}
+8 - Note{key=100, value=136, times=0, pre=12, next=10}
+9 - Note{key=10, value=10, times=0, pre=100, next=85}
+10 - Note{key=85, value=193, times=0, pre=10, next=96}
+11 - Note{key=96, value=56, times=0, pre=85, next=null}
+

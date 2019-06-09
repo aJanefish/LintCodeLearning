@@ -1,0 +1,4 @@
+id:1 0 get(39) - -1 - -1
+size=1
+0 - Note{key=33, value=219, times=0, pre=null, next=null}
+

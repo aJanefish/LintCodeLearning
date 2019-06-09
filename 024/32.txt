@@ -1,0 +1,23 @@
+id:32 8 get(48) - 261 - 261
+size=20
+0 - Note{key=48, value=261, times=1, pre=null, next=52}
+1 - Note{key=52, value=176, times=1, pre=48, next=128}
+2 - Note{key=128, value=148, times=0, pre=52, next=60}
+3 - Note{key=60, value=183, times=0, pre=128, next=133}
+4 - Note{key=133, value=193, times=0, pre=60, next=3}
+5 - Note{key=3, value=193, times=3, pre=133, next=8}
+6 - Note{key=8, value=300, times=0, pre=3, next=80}
+7 - Note{key=80, value=191, times=0, pre=8, next=29}
+8 - Note{key=29, value=30, times=0, pre=80, next=65}
+9 - Note{key=65, value=85, times=0, pre=29, next=104}
+10 - Note{key=104, value=38, times=0, pre=65, next=129}
+11 - Note{key=129, value=263, times=0, pre=104, next=121}
+12 - Note{key=121, value=308, times=0, pre=129, next=33}
+13 - Note{key=33, value=58, times=1, pre=121, next=81}
+14 - Note{key=81, value=261, times=0, pre=33, next=12}
+15 - Note{key=12, value=66, times=0, pre=81, next=100}
+16 - Note{key=100, value=136, times=0, pre=12, next=10}
+17 - Note{key=10, value=10, times=0, pre=100, next=85}
+18 - Note{key=85, value=193, times=0, pre=10, next=96}
+19 - Note{key=96, value=56, times=0, pre=85, next=null}
+

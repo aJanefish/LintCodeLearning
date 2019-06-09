@@ -1,0 +1,5 @@
+id:3 1 get(129) - -1 - -1
+size=2
+0 - Note{key=96, value=56, times=0, pre=null, next=33}
+1 - Note{key=33, value=219, times=0, pre=96, next=null}
+
