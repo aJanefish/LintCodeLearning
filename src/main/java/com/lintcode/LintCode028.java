@@ -17,7 +17,7 @@ import java.util.Arrays;
  */
 
 
-public class LintCode025 {
+public class LintCode028 {
 
     /**
      * @param matrix: matrix, a list of lists of integers
@@ -115,7 +115,7 @@ public class LintCode025 {
 
 
         P.pln(matrix[0][0] + " - " + matrix[2][3]);
-        LintCode025 lintCode025 = new LintCode025();
+        LintCode028 lintCode025 = new LintCode028();
         boolean flag = lintCode025.searchMatrix(matrix, 7);
         P.pln(flag);
     }
