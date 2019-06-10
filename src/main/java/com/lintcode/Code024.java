@@ -221,7 +221,6 @@ public class Code024 {
             }
         }
 
-
         stringBuilder.append("]");
         P.pln(stringBuilder.toString());
         P.pln(lfuCache.show());
