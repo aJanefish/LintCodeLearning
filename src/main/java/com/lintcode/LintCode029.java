@@ -15,6 +15,10 @@ import java.util.List;
  * 输出:
  * true
  */
+
+
+
+
 public class LintCode029 {
 
     static class Cache {
