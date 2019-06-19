@@ -34,40 +34,14 @@ public class LintCode042 {
         for (int i = 1; i <= nums.size() - 1; i++) {
             //[0,i][i+1,nums.size-1]
 
-            int tmp_max = maxSubArray(nums,0,i) + maxSubArray(nums,i,nums.size());
+            int tmp_max = maxSubArray(nums, 0, i) + maxSubArray(nums, i, nums.size());
             if (tmp_max > max) {
                 max = tmp_max;
             }
-
-
-//            final int finalI = i;
-//            list.add(service.submit(new Callable<Integer>() {
-//                @Override
-//                public Integer call() throws Exception {
-//                    int tmp_max = maxSubArray(nums, 0, finalI) + maxSubArray(nums, finalI, nums.size());
-//                    return tmp_max;
-//                }
-//            }));
         }
-//        service.shutdown();
-//        try {
-//            for (Future<Integer> future : list) {
-//                int tmp = 0;
-//
-//                tmp = future.get();
-//
-//                if (tmp > max) {
-//                    max = tmp;
-//                }
-//            }
-//        } catch (InterruptedException e) {
-//            e.printStackTrace();
-//        } catch (ExecutionException e) {
-//            e.printStackTrace();
-//        }
-
         return max;
     }
+
     /**
      * @param list : A list of integers
      */

@@ -7,7 +7,6 @@ import java.util.List;
 
 public class Main {
     public static void main(String[] args) {
-
         int m = 900;
         int n = 450;
         test1(m, n);
