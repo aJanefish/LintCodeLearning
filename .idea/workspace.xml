@@ -2,11 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="746a0df3-3d0e-48ef-8817-55f7dfd597b0" name="Default Changelist" comment="025">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lintcode/LintCode066.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lintcode/LintCode067.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lintcode/LintCode068.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lintcode/LIntCode075.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lintcode/LintCode069.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lintcode/LintCode070.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lintcode/LintCode071.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lintcode/LintCode074.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lintcode/LintCode076.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lintcode/LintCode077.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lintcode/LintCode078.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lintcode/LintCode079.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lintcode/LintCode080.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lintcode/LintCode081.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lintcode/LintCode083.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lintcode/LintCode084.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lintcode/LintCode085.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lintcode/LintCode086.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lintcode/LintCode087.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lintcode/LintCode088.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lintcode/LintCode089.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lintcode/LintCode064.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lintcode/LintCode064.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -19,31 +33,80 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/lintcode/LintCode067.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/lintcode/LintCode083.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="67" lean-forward="true" selection-start-line="67" selection-end-line="76" selection-end-column="46" />
+            <state relative-caret-position="162">
+              <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#626#635#0" expanded="true" />
-                <element signature="e#1292#1301#0" expanded="true" />
-                <element signature="e#1353#1363#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/lintcode/LintCode084.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="19" column="26" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#535#544#0" expanded="true" />
+                <element signature="e#592#601#0" expanded="true" />
+                <element signature="e#648#657#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/lintcode/LintCode085.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="186">
+              <caret line="24" selection-start-line="24" selection-end-line="30" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/lintcode/LintCode086.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/lintcode/LintCode087.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-231">
+              <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/lintcode/LintCode088.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-991">
+              <caret line="39" column="7" lean-forward="true" selection-start-line="39" selection-start-column="7" selection-end-line="39" selection-end-column="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#467#468#0" expanded="true" />
+                <element signature="e#500#501#0" expanded="true" />
+                <element signature="e#806#816#0" expanded="true" />
+                <element signature="e#894#904#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/lintcode/LintCode068.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/lintcode/LintCode089.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="129">
-              <caret line="49" column="26" selection-start-line="49" selection-start-column="26" selection-end-line="49" selection-end-column="26" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#604#613#0" expanded="true" />
-                <element signature="e#1271#1280#0" expanded="true" />
-                <element signature="e#1330#1340#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="216">
+              <caret line="33" column="13" lean-forward="true" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -72,18 +135,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/utils/P.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/6.in" />
-        <option value="$PROJECT_DIR$/Code024.in" />
-        <option value="$PROJECT_DIR$/src/main/java/com/utils/Test_In_024.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/lintcode/Code024.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/lintcode/LintCode025.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/lintcode/LintCode028.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/lintcode/LintCode029.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/lintcode/LintCode030.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/lintcode/LintCode031.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/lintcode/LintCode016.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/lintcode/LintCode032.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/lintcode/LintCode033.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/lintcode/LintCode034.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/lintcode/LintCode035.java" />
@@ -116,6 +167,25 @@
         <option value="$PROJECT_DIR$/src/main/java/com/lintcode/LintCode066.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/lintcode/LintCode067.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/lintcode/LintCode068.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lintcode/LintCode069.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lintcode/LintCode070.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lintcode/LintCode071.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lintcode/LintCode074.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lintcode/LIntCode075.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lintcode/LintCode076.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lintcode/LintCode078.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lintcode/LintCode077.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lintcode/LintCode079.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lintcode/LintCode080.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lintcode/LintCode081.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lintcode/LintCode082.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lintcode/LintCode083.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lintcode/LintCode084.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lintcode/LintCode085.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lintcode/LintCode086.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lintcode/LintCode087.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lintcode/LintCode088.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lintcode/LintCode089.java" />
       </list>
     </option>
   </component>
@@ -126,7 +196,7 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-78" />
     <option name="y" value="30" />
     <option name="width" value="1386" />
@@ -138,8 +208,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -213,20 +281,25 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560953900209" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561040945250" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\GitHub\LintCodeLearning" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\GitHub\LintCodeLearning\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.lintcode" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\GitHub\LintCodeLearning" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -241,9 +314,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LintCode068">
-    <configuration name="LintCode061" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lintcode.LintCode061" />
+  <component name="RunManager" selected="Application.LintCode089">
+    <configuration name="LintCode084" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lintcode.LintCode084" />
       <module name="LintCodeLearning" />
       <extension name="coverage">
         <pattern>
@@ -255,8 +328,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LintCode064" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lintcode.LintCode064" />
+    <configuration name="LintCode085" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lintcode.LintCode085" />
       <module name="LintCodeLearning" />
       <extension name="coverage">
         <pattern>
@@ -268,8 +341,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LintCode066" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lintcode.LintCode066" />
+    <configuration name="LintCode087" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lintcode.LintCode087" />
       <module name="LintCodeLearning" />
       <extension name="coverage">
         <pattern>
@@ -281,8 +354,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LintCode067" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lintcode.LintCode067" />
+    <configuration name="LintCode088" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lintcode.LintCode088" />
       <module name="LintCodeLearning" />
       <extension name="coverage">
         <pattern>
@@ -294,8 +367,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LintCode068" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lintcode.LintCode068" />
+    <configuration name="LintCode089" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lintcode.LintCode089" />
       <module name="LintCodeLearning" />
       <extension name="coverage">
         <pattern>
@@ -309,11 +382,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LintCode068" />
-        <item itemvalue="Application.LintCode067" />
-        <item itemvalue="Application.LintCode066" />
-        <item itemvalue="Application.LintCode064" />
-        <item itemvalue="Application.LintCode061" />
+        <item itemvalue="Application.LintCode089" />
+        <item itemvalue="Application.LintCode088" />
+        <item itemvalue="Application.LintCode087" />
+        <item itemvalue="Application.LintCode085" />
+        <item itemvalue="Application.LintCode084" />
       </list>
     </recent_temporary>
   </component>
@@ -332,9 +405,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2322239" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23600605" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -343,15 +415,15 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3935264" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3492334" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.27768314" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.34582624" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32931036" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.23850085" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.23834197" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -362,7 +434,7 @@
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
     <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2322239" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23600605" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -371,15 +443,15 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.36456558" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3492334" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.09199318" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.3475298" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32931036" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.23850085" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.23834197" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -394,6 +466,18 @@
     <MESSAGE value="025" />
     <option name="LAST_COMMIT_MESSAGE" value="025" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lintcode/LintCode087.java</url>
+          <line>111</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
       <expression>
@@ -404,158 +488,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/024/output.txt" />
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Code024.in">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27513">
-          <caret line="1019" selection-start-line="1019" selection-end-line="1019" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/utils/Test_In_024.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1485">
-          <caret line="58" column="49" selection-start-line="58" selection-start-column="49" selection-end-line="58" selection-end-column="49" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/utils/P.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lintcode/LintCode028.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2835">
-          <caret line="105" column="10" lean-forward="true" selection-start-line="105" selection-start-column="10" selection-end-line="105" selection-end-column="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lintcode/LintCode029.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="14" column="6" lean-forward="true" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1301#1308#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lintcode/LintCode030.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1026">
-          <caret line="42" selection-start-line="42" selection-end-line="84" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lintcode/LintCode031.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="14" selection-start-line="14" selection-end-line="28" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lintcode/LintCode016.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="403">
-          <caret line="63" column="23" selection-start-line="63" selection-start-column="23" selection-end-line="63" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_25/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="2883" column="18" selection-start-line="2883" selection-start-column="18" selection-end-line="2883" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lintcode/LintCode032.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="131">
-          <caret line="54" column="26" lean-forward="true" selection-start-line="54" selection-start-column="19" selection-end-line="54" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lintcode/LintCode033.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="130" lean-forward="true" selection-start-line="18" selection-start-column="3" selection-end-line="130" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#485#499#0" expanded="true" />
-            <element signature="e#569#577#0" expanded="true" />
-            <element signature="e#1447#1455#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lintcode/LintCode034.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" column="19" lean-forward="true" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lintcode/LintCode035.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="60" selection-start-line="60" selection-end-line="65" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lintcode/LintCode036.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lintcode/LintCode037.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="10" selection-start-line="10" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lintcode/LintCode038.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1026">
-          <caret line="46" column="32" lean-forward="true" selection-start-line="46" selection-start-column="32" selection-end-line="46" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lintcode/LintCode039.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="12" selection-start-line="12" selection-end-line="32" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#465#474#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/lintcode/Code024.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1021">
@@ -784,17 +716,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_25/src.zip!/java/util/Arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="4345" column="25" selection-start-line="4345" selection-start-column="25" selection-end-line="4345" selection-end-column="25" />
-          <folding>
-            <element signature="e#5027#5028#0" expanded="true" />
-            <element signature="e#5098#5099#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/lintcode/LintCode056.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="243">
@@ -847,27 +768,211 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/lintcode/LintCode067.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="67" lean-forward="true" selection-start-line="67" selection-end-line="76" selection-end-column="46" />
+        <state relative-caret-position="1701">
+          <caret line="67" selection-start-line="67" selection-end-line="76" selection-end-column="46" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#626#635#0" expanded="true" />
-            <element signature="e#1292#1301#0" expanded="true" />
-            <element signature="e#1353#1363#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/lintcode/LintCode068.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="129">
-          <caret line="49" column="26" selection-start-line="49" selection-start-column="26" selection-end-line="49" selection-end-column="26" />
+        <state relative-caret-position="43">
+          <caret line="84" selection-start-line="84" selection-end-line="87" selection-end-column="47" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#604#613#0" expanded="true" />
-            <element signature="e#1271#1280#0" expanded="true" />
-            <element signature="e#1330#1340#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lintcode/LintCode069.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="36" selection-start-line="36" selection-end-line="64" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#730#745#0" expanded="true" />
+            <element signature="e#799#809#0" expanded="true" />
+            <element signature="e#914#923#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lintcode/LintCode070.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="19" column="9" lean-forward="true" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#688#703#0" expanded="true" />
+            <element signature="e#755#765#0" expanded="true" />
+            <element signature="e#870#879#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lintcode/LintCode071.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="26" column="26" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
+          <folding>
+            <element signature="e#924#933#0" expanded="true" />
+            <element signature="e#1014#1023#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lintcode/LintCode074.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+          <folding>
+            <element signature="e#156#157#0" expanded="true" />
+            <element signature="e#192#193#0" expanded="true" />
+            <element signature="e#1389#1390#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lintcode/LIntCode075.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lintcode/LintCode076.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="19" column="27" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lintcode/LintCode078.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lintcode/LintCode077.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="52" column="19" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="52" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lintcode/LintCode079.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="15" column="27" lean-forward="true" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_25/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="142" column="23" selection-start-line="142" selection-start-column="23" selection-end-line="142" selection-end-column="23" />
+          <folding>
+            <element signature="e#5027#5028#0" expanded="true" />
+            <element signature="e#5098#5099#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lintcode/LintCode080.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="28" column="9" lean-forward="true" selection-start-line="26" selection-start-column="8" selection-end-line="28" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lintcode/LintCode081.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lintcode/LintCode082.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-46">
+          <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lintcode/LintCode083.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lintcode/LintCode084.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="19" column="26" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#535#544#0" expanded="true" />
+            <element signature="e#592#601#0" expanded="true" />
+            <element signature="e#648#657#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lintcode/LintCode086.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lintcode/LintCode085.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="24" selection-start-line="24" selection-end-line="30" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lintcode/LintCode087.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-231">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lintcode/LintCode088.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-991">
+          <caret line="39" column="7" lean-forward="true" selection-start-line="39" selection-start-column="7" selection-end-line="39" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#467#468#0" expanded="true" />
+            <element signature="e#500#501#0" expanded="true" />
+            <element signature="e#806#816#0" expanded="true" />
+            <element signature="e#894#904#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lintcode/LintCode089.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="33" column="13" lean-forward="true" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
         </state>
       </provider>
     </entry>
