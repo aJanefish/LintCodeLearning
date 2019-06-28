@@ -26,25 +26,25 @@ public class LintCode092 {
     public int backPack(int m, int[] A) {
         // write your code here
         int[][] flag = new int[A.length + 1][m + 1];
+
         for (int i = 0; i < A.length; i++) {
             int backage = A[i];
             for (int backage_size = 1; backage_size <= m; backage_size++) {
-
                 if (backage <= backage_size) {
-                    int tmp = Math.max(flag[i][backage_size], flag[i + 1][backage_size - 1]);
-                    int tmp1 = flag[i][backage_size - backage] + backage;
-                    flag[i + 1][backage_size] = Math.max(tmp1, tmp);
+                    int max = flag[i][backage_size] > flag[i + 1][backage_size - 1] ? flag[i][backage_size] : flag[i + 1][backage_size - 1];
+                    int max1 = backage + flag[i][backage_size - backage];
+                    flag[i + 1][backage_size] = max > max1 ? max : max1;
                 } else {
-                    flag[i + 1][backage_size] = Math.max(flag[i][backage_size], flag[i + 1][backage_size - 1]);
+                    int max = flag[i][backage_size] > flag[i + 1][backage_size - 1] ? flag[i][backage_size] : flag[i + 1][backage_size - 1];
+                    flag[i + 1][backage_size] = max;
                 }
             }
         }
 
-        P.pln(flag[0].length);
         for (int i = 0; i <= A.length; i++) {
             P.pln(Arrays.toString(flag[i]));
-
         }
+
         return flag[A.length][m];
     }
 
