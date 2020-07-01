@@ -1,37 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="746a0df3-3d0e-48ef-8817-55f7dfd597b0" name="Default Changelist" comment="025">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lintcode100_200/LintCode104.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lintcode100_200/LintCode105.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lintcode100_200/LintCode112.java" afterDir="false" />
+    <list default="true" id="746a0df3-3d0e-48ef-8817-55f7dfd597b0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lintcode100_200/BaseCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lintcode100_200/LintCode113.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lintcode100_200/LintCode1292.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lintcode100_200/LintCode221.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lintcode100_200/LintCode492.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lintcode100_200/LintCode511.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lintcode100_200/LintCode599.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lintcode100_200/LintCode756.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/LintCodeLearning.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lintcode/LintCode017.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lintcode/LintCode017.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lintcode/LintCode018.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lintcode/LintCode018.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lintcode/LintCode029.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lintcode/LintCode029.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lintcode/LintCode033.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lintcode/LintCode033.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lintcode/LintCode034.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lintcode/LintCode034.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lintcode/LintCode035.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lintcode/LintCode035.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lintcode/LintCode036.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lintcode/LintCode036.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lintcode/LintCode040.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lintcode/LintCode040.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lintcode/LintCode066.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lintcode/LintCode066.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lintcode/LintCode067.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lintcode/LintCode067.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lintcode/LintCode068.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lintcode/LintCode068.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lintcode/LintCode069.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lintcode/LintCode069.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lintcode/LintCode070.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lintcode/LintCode070.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lintcode/LintCode071.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lintcode/LintCode071.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lintcode/LintCode074.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lintcode/LintCode074.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lintcode/LintCode085.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lintcode/LintCode085.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lintcode/LintCode087.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lintcode/LintCode087.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lintcode/LintCode088.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lintcode/LintCode088.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lintcode/LintCode089.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lintcode/LintCode089.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lintcode/LintCode095.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lintcode/LintCode095.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lintcode/LintCode096.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lintcode/LintCode096.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lintcode/LintCode097.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lintcode/LintCode097.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lintcode/LintCode099.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lintcode/LintCode099.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lintcode/LintCode102.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lintcode/LintCode102.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/utils/Test_In_024.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/utils/Test_In_024.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +52,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561638093067" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../KotlinWord/KotlinLearning" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -89,35 +68,9 @@
       <recent name="E:\GitHub\LintCodeLearning\src\main\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LintCode112">
-    <configuration name="LintCode101" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lintcode.LintCode101" />
-      <module name="LintCodeLearning" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.lintcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LintCode102" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lintcode.LintCode102" />
-      <module name="LintCodeLearning" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.lintcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LintCode104" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lintcode100_200.LintCode104" />
+  <component name="RunManager" selected="Application.LintCode221">
+    <configuration name="LintCode1292" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lintcode100_200.LintCode1292" />
       <module name="LintCodeLearning" />
       <extension name="coverage">
         <pattern>
@@ -129,8 +82,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LintCode105" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lintcode100_200.LintCode105" />
+    <configuration name="LintCode221" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lintcode100_200.LintCode221" />
       <module name="LintCodeLearning" />
       <extension name="coverage">
         <pattern>
@@ -142,8 +95,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LintCode112" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lintcode100_200.LintCode112" />
+    <configuration name="LintCode492" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lintcode100_200.LintCode492" />
+      <module name="LintCodeLearning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lintcode100_200.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LintCode511" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lintcode100_200.LintCode511" />
+      <module name="LintCodeLearning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lintcode100_200.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LintCode599" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lintcode100_200.LintCode599" />
       <module name="LintCodeLearning" />
       <extension name="coverage">
         <pattern>
@@ -157,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LintCode112" />
-        <item itemvalue="Application.LintCode105" />
-        <item itemvalue="Application.LintCode104" />
-        <item itemvalue="Application.LintCode102" />
-        <item itemvalue="Application.LintCode101" />
+        <item itemvalue="Application.LintCode221" />
+        <item itemvalue="Application.LintCode492" />
+        <item itemvalue="Application.LintCode599" />
+        <item itemvalue="Application.LintCode511" />
+        <item itemvalue="Application.LintCode1292" />
       </list>
     </recent_temporary>
   </component>
@@ -176,37 +155,62 @@
       <option name="presentableId" value="Default" />
       <updated>1560063218693</updated>
     </task>
+    <task id="LOCAL-00001" summary="add 2020 0629 01">
+      <created>1593387948005</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1593387948005</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="025" />
-    <option name="LAST_COMMIT_MESSAGE" value="025" />
+    <MESSAGE value="add 2020 0629 01" />
+    <option name="LAST_COMMIT_MESSAGE" value="add 2020 0629 01" />
   </component>
   <component name="WindowStateProjectService">
     <state x="713" y="221" key="#com.intellij.ide.util.MemberChooser" timestamp="1593385323017">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="713" y="221" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1593385323017" />
-    <state width="1877" height="315" key="GridCell.Tab.0.bottom" timestamp="1593387875524">
+    <state x="593" y="110" key="CommitChangelistDialog2" timestamp="1593387947005">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="315" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1593387875524" />
-    <state width="1877" height="315" key="GridCell.Tab.0.center" timestamp="1593387875524">
+    <state x="593" y="110" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1593387947005" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1593388467675">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="315" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1593387875524" />
-    <state width="1877" height="315" key="GridCell.Tab.0.left" timestamp="1593387875524">
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1593388467675" />
+    <state width="1877" height="339" key="GridCell.Tab.0.bottom" timestamp="1593614237537">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="315" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1593387875524" />
-    <state width="1877" height="315" key="GridCell.Tab.0.right" timestamp="1593387875524">
+    <state width="1877" height="339" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1593614237537" />
+    <state width="1877" height="339" key="GridCell.Tab.0.center" timestamp="1593614237537">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="315" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1593387875524" />
-    <state x="640" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1593385042719">
+    <state width="1877" height="339" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1593614237537" />
+    <state width="1877" height="339" key="GridCell.Tab.0.left" timestamp="1593614237537">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="640" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1593385042719" />
+    <state width="1877" height="339" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1593614237537" />
+    <state width="1877" height="339" key="GridCell.Tab.0.right" timestamp="1593614237537">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="339" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1593614237537" />
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1593601920395">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1593601920395" />
+    <state x="752" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1593614553444">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="752" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1593614553444" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1593560949477">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1593560949477" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
