@@ -1,10 +1,10 @@
-package com.lintcode100_200;
+package com.lintcode.list;
 
 public class BaseCode {
 
     public static class ListNode {
         int val;
-        ListNode next;
+        public ListNode next;
 
         ListNode(int val) {
             this.val = val;
@@ -26,6 +26,9 @@ public class BaseCode {
     }
 
     protected static ListNode createListNode(int... values) {
+        if (values.length == 0) {
+            return null;
+        }
         ListNode headNode = new ListNode(values[0]);
         ListNode current = headNode;
         for (int i = 1; i < values.length; i++) {

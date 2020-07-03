@@ -1,4 +1,4 @@
-package com.lintcode100_200;
+package com.lintcode.list;
 
 /**
  * 描述
@@ -36,41 +36,70 @@ public class LintCode113 {
      */
     public ListNode deleteDuplicates(ListNode head) {
         // write your code here
-        ListNode pre = head;
-        ListNode current = head;
+        ListNode pre = null;
+        ListNode current = null;
         ListNode next = head;
+        ListNode newHead = null;
         while (next != null) {
-
-            next = next.next;
-
-            if (next.val == current.val) {
-                //后移，不做处理
-            } else {
-                //不等的时候
-                if (pre == current) {
-                    pre = next;
+            if (pre == null) {
+                if (current == null) {
                     current = next;
                 } else {
-                    if (pre == head) {
-                        pre = next;
+                    if (current.val == next.val) {
+
+                    } else {
+                        if (current.next == next) {
+                            //不删除
+                            pre = current;
+                            newHead = pre;
+                            current = next;
+                        } else {
+                            current = next;
+                        }
+                    }
+                }
+            } else {
+                if (current.val == next.val) {
+
+                } else {
+                    if (current.next == next) {
+                        pre = current;
                         current = next;
-                        head = next;
                     } else {
                         pre.next = next;
                         current = next;
                     }
+
                 }
+            }
+
+            next = next.next;
+        }
+
+        if (pre == null) {
+            if (current == null) {
+                current = next;
+            } else {
+                if (current.next == next) {
+                    //不删除
+                    pre = current;
+                    newHead = pre;
+                }
+            }
+        } else {
+            if (current.next != next) {
+                pre.next = next;
             }
         }
 
 
-        return null;
+        return newHead;
     }
 
     public static void main(String[] args) {
         //ListNode listNode = createListNode(1, 2, 3, 4, 5, 6, 6, 7);
         //ListNode listNode = createListNode(1, 2, 3, 4, 5, 6, 6, 7,7);
-        ListNode listNode = createListNode(1, 1, 2, 3, 4, 5, 6, 6, 7);
+        ListNode listNode = createListNode(1, 1, 1);
         show(listNode);
         LintCode113 lintCode113 = new LintCode113();
         ListNode ss = lintCode113.deleteDuplicates(listNode);

@@ -1,4 +1,4 @@
-package com.lintcode100_200;
+package com.lintcode.list;
 
 import java.util.ArrayList;
 import java.util.List;

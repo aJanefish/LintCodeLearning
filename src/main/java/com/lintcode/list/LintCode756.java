@@ -1,4 +1,4 @@
-package com.lintcode100_200;
+package com.lintcode.list;
 
 
 /**
