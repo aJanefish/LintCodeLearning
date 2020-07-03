@@ -3,7 +3,7 @@ package com.lintcode.list;
 public class BaseCode {
 
     public static class ListNode {
-        int val;
+        public int val;
         public ListNode next;
 
         ListNode(int val) {
