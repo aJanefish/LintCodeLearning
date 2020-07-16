@@ -1,5 +1,10 @@
 package com.lintcode.list;
 
+import java.util.ArrayList;
+import java.util.HashSet;
+import java.util.Iterator;
+import java.util.List;
+
 /**
  * 描述
  * 我们需要实现一个叫 DataStream 的数据结构。并且这里有 两 个方法需要实现：
@@ -45,7 +50,10 @@ package com.lintcode.list;
  */
 public class LintCode960 extends BaseCode {
 
-    public class DataStream {
+    public static class DataStream {
+
+        List<Integer> list = new ArrayList<Integer>();
+        HashSet<Integer> hashSet = new HashSet<Integer>();
 
         public DataStream() {
             // do intialization if necessary
@@ -57,6 +65,18 @@ public class LintCode960 extends BaseCode {
          */
         public void add(int num) {
             // write your code here
+            if (!hashSet.contains(num)) {//就是唯一
+                hashSet.add(num);
+                list.add(num);
+            }else {
+                Iterator<Integer> iterator = list.iterator();
+                while (iterator.hasNext()){
+                    if(iterator.next()== num){
+                        iterator.remove();
+                        return;
+                    }
+                }
+            }
         }
 
         /**
@@ -64,11 +84,20 @@ public class LintCode960 extends BaseCode {
          */
         public int firstUnique() {
             // write your code here
-            return 0;
+            System.out.println(hashSet);
+            System.out.println(list);
+            return list.get(0);
         }
     }
 
     public static void main(String[] args) {
+
+        DataStream dataStream = new DataStream();
+        dataStream.add(1);
+        dataStream.add(2);
+        System.out.println(dataStream.firstUnique());
+        dataStream.add(1);
+        System.out.println(dataStream.firstUnique());
 
     }
 }
